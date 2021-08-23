@@ -12,8 +12,10 @@ I currently have uploaded:
   - A chat-app which is my current project and I am about 75% complete.
 
 Feel free to reach out to me on any of these platforms:
+  
   LinkedIn: https://www.linkedin.com/in/natasha-adam-855b80146
   
   Facebook: facebook.com/natashaxadam
+ 
   Email: natashaa.adam@gmail.com
 
