@@ -11,6 +11,8 @@ I currently have uploaded:
   - An e-portfolio (attached is my resume, LinkedIn account and email address!)
   - A chat-app which is my current project and I am about 75% complete.
 
+These can all be found within my Repositories!!!
+
 Feel free to reach out to me on any of these platforms:
   
   LinkedIn: https://www.linkedin.com/in/natasha-adam-855b80146
