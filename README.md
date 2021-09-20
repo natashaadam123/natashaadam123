@@ -6,12 +6,9 @@ I currently attend Western Sydney University with a degree in Business, majoring
 
 I have a peaked interest in Programming languages and Software Development and have been doing so since I was 13.
 
-I currently have uploaded:
-  - A blog template (feel free to use for whatever you like by downloading the zip file!)
-  - An e-portfolio (attached is my resume, LinkedIn account and email address!)
-  - A chat-app which is my current project and I am about 75% complete.
+I currently have developed a lot of different kinds of applications and websites. You can view all the source code by going through my Repositories. 
 
-These can all be found within my Repositories!!!
+If you want to see all my websites LIVE, you can do that by going on my portfolio https://natashaadam123.github.io and going to the 'Portfolio' section!
 
 Feel free to reach out to me on any of these platforms:
   
