@@ -12,7 +12,7 @@ If you want to see all my websites LIVE, you can do that by going on my portfoli
 
 Feel free to reach out to me on any of these platforms:
   
-  LinkedIn: https://www.linkedin.com/in/natasha-adam-855b80146
+  LinkedIn: www.linkedin.com/in/natashaadam123
   
   Facebook: facebook.com/natashaxadam 
  
