@@ -2,7 +2,7 @@
 
 My name is Natasha Adam and you are currently on my GitHub profile.
 
-I currently attend Western Sydney University with a degree in Business, majoring in Economics and Property.
+I currently attend Western Sydney University to obtain an undergraduate degree in Business, majoring in Economics and Property.
 
 I have a peaked interest in Programming languages and Software Development and have been doing so since I was 13.
 
