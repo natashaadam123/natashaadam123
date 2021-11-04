@@ -14,7 +14,7 @@ Feel free to reach out to me on any of these platforms:
   
   LinkedIn: www.linkedin.com/in/natashaadam123
   
-  Facebook: facebook.com/natashaxadam 
+  Facebook: https://facebook.com/natashaxadam 
  
   Email: natashaa.adam@gmail.com
 
