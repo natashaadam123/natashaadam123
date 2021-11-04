@@ -18,3 +18,4 @@ Feel free to reach out to me on any of these platforms:
  
   Email: natashaa.adam@gmail.com
 
+  Medium: https://medium.com/@natashaadam123
